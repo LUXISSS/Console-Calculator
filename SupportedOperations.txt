@@ -1,0 +1,3 @@
+Primitive Operations: Addition, Subtraction, Multiplication, Division
+Trigonometry: Square Root (sqrt), Sine Approximation (sine)
+Arithmetic: Exponentiation (int-power)
