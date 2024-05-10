@@ -30,12 +30,31 @@ public class Arith {
     {
     	float result = base;
     	
-    	for(int i = 1; i < exponent; i++)
+    	if(exponent > 0)
     	{
-    		result *= base;
+    		for(int i = 1; i < exponent; i++)
+        	{
+        		result *= base;
+        	}
+    		
+    		return result;
     	}
     	
-    	return result;
+    	if(exponent < 0)
+    	{
+    		for(int i = -1; i > exponent; i--)
+        	{
+        		result *= base;
+        	}
+    		
+    		return 1 / result;
+    	}
+    	
+    	if(exponent == 0)
+    		return 1;
+    	
+    	
+    	return -1;
     }
 
 }

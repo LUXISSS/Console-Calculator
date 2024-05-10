@@ -20,7 +20,7 @@ public class Main {
 		//Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Welcome to the Console Calculator");
-		
+
 		EntryPoint();
 	}
 	
@@ -150,12 +150,12 @@ public class Main {
 	
 	public static void SquareRoot(float x)
 	{
-		System.out.println(Trig.sqrt(x));
+		System.out.println(Trig.sqrt(Math.abs(x)));
 	}
 	
 	public static void Factorial(int x)
 	{
-		System.out.println(Arith.Factorial(x));
+		System.out.println(Arith.Factorial(Math.abs(x)));
 	}
 	
 	public static void Sine(float x)
