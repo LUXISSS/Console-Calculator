@@ -26,7 +26,7 @@ Zusätzlich, ermöglicht es die/ den
 - *Faktultät* einer gegebenen Zahl zu berechnen.
 - *Sinus* eines gegebenen Winkels (in Grad) zu berechnen.
 - *Quadratwurzel* einer gegebenen Zahl zu berechnen.
-- Gegebene Zahl mit einem ⎯ *vom Nutzer spezifizierten* ⎯ *(Integer-)Exponenten zu exponenzieren*.
+- Gegebene Zahl mit einem ⎯ *vom Nutzer spezifizierten* ⎯ *(Integer-)Exponenten zu potenzieren*.
 
 # Installation
 **ENG** Just extract the .jar file into the same folder as the .txt file. You can run it using "java -jar ConsoleCalculator.jar"; Windows cmd.
