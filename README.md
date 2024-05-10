@@ -29,7 +29,7 @@ Zusätzlich, ermöglicht es die/ den
 - Gegebene Zahl mit einem ⎯ *vom Nutzer spezifizierten* ⎯ *(Integer-)Exponenten zu potenzieren*.
 
 # Installation
-**ENG** Just extract the .jar file into the same folder as the .txt file. You can run it using "java -jar ConsoleCalculator.jar"; Windows cmd.
-**GER** Extrahiere einfach die .jar-Datei und die .txt-Datei innerhalb des selben Ordners. Ausführen kannst du das Programm mit dem Befehl "java -jar ConsoleCalculator.jar" innerhalb der Windows cmd.
+**ENG** Just extract the .jar file into the same folder as the .txt file. You can run it using "***java -jar ConsoleCalculator.jar***"; Windows cmd.
+**GER** Extrahiere einfach die .jar-Datei und die .txt-Datei innerhalb des selben Ordners. Ausführen kannst du das Programm mit dem Befehl "***java -jar ConsoleCalculator.jar***" innerhalb der Windows cmd.
 
 © LUXISSS (B.K.)
